@@ -7,12 +7,13 @@ import (
 
 	//"time"
 	"encoding/json"
+
 	"github.com/nbd-wtf/go-nostr"
 
 	"github.com/coder/websocket"
 	"github.com/coder/websocket/wsjson"
 
-	"codeberg.org/Yonle/bostr2/relayHandler"
+	"blastr/relayHandler"
 )
 
 type SessionEvents map[string]map[string]struct{}

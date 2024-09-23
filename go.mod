@@ -1,4 +1,4 @@
-module codeberg.org/Yonle/bostr2
+module blastr
 
 go 1.21
 
